@@ -1,5 +1,5 @@
 # Netflix-Azure-Data-Engineering-Project
-Introduction
+Introduction:
 In this project, I built a highly scalable data pipeline for processing and analyzing Netflix dataset using Azure Data Engineering Stack. The goal was to build an end-to-end ETL solution that efficiently ingests, transforms, and visualizes data in Databricks, Delta Live Tables (DLT), Azure Synapse, and Power BI.
 
 🔧 Tech Stack & Tools Used:
