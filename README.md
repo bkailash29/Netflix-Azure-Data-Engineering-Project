@@ -1,8 +1,8 @@
 # Netflix-Azure-Data-Engineering-Project
-🔹 Introduction
+Introduction
 In this project, I built a highly scalable data pipeline for processing and analyzing Netflix dataset using Azure Data Engineering Stack. The goal was to build an end-to-end ETL solution that efficiently ingests, transforms, and visualizes data in Databricks, Delta Live Tables (DLT), Azure Synapse, and Power BI.
 
-🔹 🔧 Tech Stack & Tools Used
+🔧 Tech Stack & Tools Used:
 ✅ Databricks: Used for data processing, transformation, and orchestration
 ✅ Delta Live Tables (DLT): Implemented incremental data processing with autoloader
 ✅ Azure Data Factory (ADF): For data ingestion & workflow automation
@@ -13,7 +13,7 @@ In this project, I built a highly scalable data pipeline for processing and anal
 ✅ Azure Key Vault: Secure storage of credentials
 ✅ dbutils: Databricks Utilities for handling widgets, secrets, and storage
 
-🔹 📂 Data Pipeline Architecture
+📂 Data Pipeline Architecture:
 📌 Ingestion Layer: Data is loaded incrementally using Databricks Autoloader from Azure Data Lake.
 📌 Bronze Layer (Raw Data Store): Stores raw ingested data in Delta format.
 📌 Silver Layer (Transformations & Cleansing): Applied validations, deduplication, and aggregations.
