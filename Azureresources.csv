@@ -1,5 +1,0 @@
-﻿NAME,TYPE,LOCATION,
-"access_netflix","Access Connector for Azure Databricks","UK South"
-"df-netflix-kb","Data factory (V2)","East US"
-"netflix-adb-kai","Azure Databricks Service","UK South"
-"netflixprojectdlkb","Storage account","UK South"
